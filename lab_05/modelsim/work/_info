@@ -1,0 +1,61 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_04/modelsim
+T_opt
+!s110 1711461587
+V5?l9E_J3;eN`5EedXCTeO1
+04 13 4 work comparator_tb fast 0
+=1-bc5ff4463050-6602d4d3-282-1144
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.7;67
+vcomparator
+Z1 !s110 1711461583
+!i10b 1
+!s100 ^3lD3oO[_NTRcYeE[VABB3
+IB7ARUIOJOCkbf:7`25K193
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dF:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_05/modelsim
+w1711461370
+8F:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_05/rtl/comparator.v
+FF:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_05/rtl/comparator.v
+L0 3
+Z4 OL;L;10.7;67
+r1
+!s85 0
+31
+!s108 1711461582.000000
+!s107 F:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_05/rtl/comparator.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_05/rtl/comparator.v|
+!i113 0
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vcomparator_tb
+R1
+!i10b 1
+!s100 [R2@@2N?Wj8XOC^hTlUW03
+IeB=^]VLN2T3CPlD<aOTNL0
+R2
+R3
+w1711461544
+8F:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_05/tb/comparator_tb.v
+FF:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_05/tb/comparator_tb.v
+L0 5
+R4
+r1
+!s85 0
+31
+!s108 1711461583.000000
+!s107 F:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_05/tb/comparator_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_05/tb/comparator_tb.v|
+!i113 0
+R5
+R0

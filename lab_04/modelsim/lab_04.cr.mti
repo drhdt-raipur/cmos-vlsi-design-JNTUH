@@ -1,0 +1,15 @@
+F:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_04/tb/tb_binary_to_gray.v {1 {vlog -work work -vopt -stats=none F:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_04/tb/tb_binary_to_gray.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module tb_binary_to_gray
+
+Top level modules:
+	tb_binary_to_gray
+
+} {} {}} F:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_04/rtl/binary_to_gray.v {1 {vlog -work work -vopt -stats=none F:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_04/rtl/binary_to_gray.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module binary_to_gray
+
+Top level modules:
+	binary_to_gray
+
+} {} {}}

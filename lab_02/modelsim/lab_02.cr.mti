@@ -1,0 +1,29 @@
+F:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_02/rtl/encoder_8to3.v {1 {vlog -work work -vopt -stats=none F:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_02/rtl/encoder_8to3.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module encoder_8to3
+
+Top level modules:
+	encoder_8to3
+
+} {} {}} F:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_02/rtl/encoder_8to3_priority.v {1 {vlog -work work -vopt -stats=none F:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_02/rtl/encoder_8to3_priority.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module encoder_8to3_priority
+
+Top level modules:
+	encoder_8to3_priority
+
+} {} {}} F:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_02/tb/tb_encoder_decoder.v {1 {vlog -work work -vopt -stats=none F:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_02/tb/tb_encoder_decoder.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module tb_encoder_decoder
+
+Top level modules:
+	tb_encoder_decoder
+
+} {} {}} F:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_02/rtl/decoder_2to4.v {1 {vlog -work work -vopt -stats=none F:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_02/rtl/decoder_2to4.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module decoder_2to4
+
+Top level modules:
+	decoder_2to4
+
+} {} {}}

@@ -1,0 +1,15 @@
+F:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_05/tb/comparator_tb.v {1 {vlog -work work -vopt -stats=none F:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_05/tb/comparator_tb.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module comparator_tb
+
+Top level modules:
+	comparator_tb
+
+} {} {}} F:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_05/rtl/comparator.v {1 {vlog -work work -vopt -stats=none F:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_05/rtl/comparator.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module comparator
+
+Top level modules:
+	comparator
+
+} {} {}}

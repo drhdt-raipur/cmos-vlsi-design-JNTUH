@@ -1,0 +1,82 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_02/modelsim
+T_opt
+!s110 1711374385
+V1FRNhGM0m_hcT2lCnffVl1
+04 9 4 work testbench fast 0
+=1-bc5ff4463050-66018031-289-1090
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.7;67
+vdemux_1to8
+Z1 !s110 1711374382
+!i10b 1
+!s100 6AOG[oR?Nc`FOmU_?VkOT2
+IT28Fm3VP]iAQ`kMLSG3>;2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dF:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_03/modelsim
+w1711373485
+8F:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_03/rtl/demux_1to8.v
+FF:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_03/rtl/demux_1to8.v
+L0 2
+Z4 OL;L;10.7;67
+r1
+!s85 0
+31
+!s108 1711374381.000000
+!s107 F:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_03/rtl/demux_1to8.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_03/rtl/demux_1to8.v|
+!i113 0
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vmux_8to1
+R1
+!i10b 1
+!s100 SAUc@2CB5QWz5aFMgXLP[0
+IK41RX_]_K?ijkYKYbZePd3
+R2
+R3
+w1711373466
+8F:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_03/rtl/mux_8to1.v
+FF:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_03/rtl/mux_8to1.v
+L0 2
+R4
+r1
+!s85 0
+31
+Z6 !s108 1711374382.000000
+!s107 F:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_03/rtl/mux_8to1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_03/rtl/mux_8to1.v|
+!i113 0
+R5
+R0
+vtestbench
+R1
+!i10b 1
+!s100 GicgHHL8]K_]DJam?X`YQ1
+IE[?8;kB;LC>_h=?zV>[]i2
+R2
+R3
+w1711374353
+8F:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_03/tb/testbench.v
+FF:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_03/tb/testbench.v
+L0 3
+R4
+r1
+!s85 0
+31
+R6
+!s107 F:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_03/tb/testbench.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_03/tb/testbench.v|
+!i113 0
+R5
+R0

@@ -1,0 +1,22 @@
+F:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_03/tb/testbench.v {1 {vlog -work work -vopt -stats=none F:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_03/tb/testbench.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} F:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_03/rtl/mux_8to1.v {1 {vlog -work work -vopt -stats=none F:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_03/rtl/mux_8to1.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module mux_8to1
+
+Top level modules:
+	mux_8to1
+
+} {} {}} F:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_03/rtl/demux_1to8.v {1 {vlog -work work -vopt -stats=none F:/youtube_content/vlsi/EC605PC_CMOS_VLSI_DESIGN_LABORATORY/lab_03/rtl/demux_1to8.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module demux_1to8
+
+Top level modules:
+	demux_1to8
+
+} {} {}}
